@@ -22,7 +22,7 @@ println("Released year is $Year")
 
 // The Genre 
 val Genre: String = "Pop"
-println("Genre of the song is $Genre")
+println("Genre of this song is $Genre")
 
 // Song Duration
 val Duration: Double = 4.23
@@ -32,5 +32,7 @@ println("Duration of the song is $Duration")
 val Lyricist: String = "Ed Sheeran"
 println("The lyricist of this song is $Lyricist")
 
-
+//Rating of this song
+val IsThisGoodSong : Boolean = true
+println("Is this a good song , $IsThisGoodSong")
 }
