@@ -33,10 +33,6 @@ fun main()
 
 }
 
-/*
-    Sir sorry I used function for find prime numbers
-    because i don't know how to make it without function
-*/
 
 
 fun isPrime( num: Int ): Boolean {
